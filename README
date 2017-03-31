@@ -1,0 +1,21 @@
+#######################
+# MINT - daemon toolset
+#   c[] ---skrp of MKRX
+# scraping work: over-time & many iterations & chronic
+# https://ibin.co/38j1IoadTmGz.jpg
+# TOOLSET #############
+PING_PID  # active demons
+SHUT      # kill MINION
+PET       # pause MINION
+CHIRP     # stdout MINION
+HICC      # stderr MINION
+KICK      # PID MINION
+BURP      # MINION dump
+URPP      # init MINION
+
+REBIT     # update MASTER/HIT
+UURP      # MINION HIT size
+URPP      # MASTER MINION
+SUMM      # birth MINION
+PLUCK     # XS MINION
+REIN      # bandwidth MINION
