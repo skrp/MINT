@@ -1,7 +1,8 @@
 #######################
 # MINT - daemon toolset
 #   c[] ---skrp of MKRX
-# scraping work: over-time & many iterations & chronic
+# a toolset providing a command-line-interface to managing a vast array of daemons across a network
+# the nature of scraping work requires periodic monitoring of many nodes: over-time & many iterations & chronic
 # https://ibin.co/38j1IoadTmGz.jpg
 # TOOLSET #############
 PING_PID  # active demons
